@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Rodrigues Amzehnhoff</h1>
 <h3 align="center">Atualmente sou estudante de Engenharia de Software e estou em constante busca por aprendizado e crescimento na área. Com uma paixão pela tecnologia desde cedo, estou dedicado a aprimorar minhas habilidades e contribuir para o mundo da programação.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoamzz&label=Profile%20views&color=0e75b6&style=flat" alt="leoamzz" /> </p>
