@@ -2,7 +2,7 @@
 Olá 👋, eu sou Leonardo Rodrigues Amzehnhoff<br>Atualmente, sou estudante de Engenharia de Software e estou sempre em busca de aprendizado e crescimento na área. Minha paixão pela tecnologia começou cedo, e desde então, tenho me dedicado a aprimorar minhas habilidades e contribuir para o mundo da programação.<br><br>💡 Estou aprendendo: Engenharia de Software<br>🔗 Conecte-se comigo: LinkedIn | Instagram<br>💻 Linguagens e Ferramentas: HTML, CSS, JavaScript, Python, entre outras<br><br>Se quiser bater um papo sobre tecnologia ou colaboração em projetos, fique à vontade para me chamar! 🚀
 
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)">
+<img alt="Coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)">
 
 
 ## 🌐 Socials:
